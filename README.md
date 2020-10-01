@@ -1,2 +1,5 @@
 # pagseguro-kafka-protobuf-client
-Prove client kafka para produzir e conumir mensagens em um tópico com protobuf
+Deve ser utilizado apenas para testes.
+Este client kafka permite produzir e conumir mensagens em um tópico específico usando o padrão protobuf
+
+
